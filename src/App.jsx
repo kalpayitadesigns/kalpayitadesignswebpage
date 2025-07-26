@@ -25,17 +25,17 @@ const socialLinks = [
 const designs = [
   {
     title: 'Minimalist Art Tee',
-    imgSrc: '/design1.png', // matches public/design1.png
+    imgSrc: 'design1.png', // matches public/design1.png
     alt: 'Minimalist Art Tee',
   },
   {
     title: 'Abstract Splash',
-    imgSrc: '/design2.png',
+    imgSrc: 'design2.png',
     alt: 'Abstract Splash',
   },
   {
     title: 'Inspire Daily',
-    imgSrc: '/design3.png',
+    imgSrc: 'design3.png',
     alt: 'Inspire Daily',
   },
   // Add more designs here as needed
